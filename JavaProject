@@ -1,0 +1,12 @@
+class Project
+{
+//Vasanth
+
+//Velan
+
+public static void main(String args[]);
+{
+// Vidhusha 
+System.out.println("JavaProject");
+}
+}
